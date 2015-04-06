@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name              = 'AIControls'
-s.version           = '0.1.0'
+s.version           = '0.1.1'
 s.summary           = 'Set of Custom Controls for iOS Swift'
 s.homepage          = 'https://github.com/anasiqbal/AIControls'
 s.license           = {
